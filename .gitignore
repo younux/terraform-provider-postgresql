@@ -33,3 +33,6 @@ data/
 postgresql/pwfile
 tests/docker-compose.*.yml
 terraform-provider-postgresql
+
+
+examples
